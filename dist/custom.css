@@ -394,6 +394,16 @@ padding: 1px !important;
   border-left: 1.5px solid #17a2b8 !important;
 }
 
+.li_wh_area{ 
+  border-radius: 6px !important;
+  border-left: 1.5px solid #17a2b8 !important;
+}
+
+.li_wh_origin{   
+  border-radius: 6px !important;
+  border: 1.5px solid #17a2b8 !important;
+}
+
 .li_wh_nodata{
  color: #dc3545 !important; 
   border-radius: 6px !important;
