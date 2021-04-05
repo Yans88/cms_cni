@@ -436,3 +436,7 @@ padding: 1px !important;
 .card-header-custom{
   padding-bottom: .5em !important;
 }
+
+.table-hover tbody tr:hover{
+  cursor: pointer;
+}
