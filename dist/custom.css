@@ -604,3 +604,14 @@ small {
 }
 
 .hide{display: none;}
+
+.my-dropdown-menu{
+  transform: translate(0px, 5px) !important;
+}
+.my-dropdown-menu a{
+  color: #0f6674 !important;
+}
+
+.my-dropdown-menu:hover{
+  background-color: #fff !important;
+}
