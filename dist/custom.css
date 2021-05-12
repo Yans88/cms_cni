@@ -615,3 +615,24 @@ small {
 .my-dropdown-menu:hover{
   background-color: #fff !important;
 }
+.profile-username{
+  font-size: 18px !important;
+}
+.timeline-inverse>.timeline-item {
+  box-shadow: none;
+  background: #f8f9fa;
+  border: 1px solid #dee2e6;
+}
+.timeline-item {
+  box-shadow: 0 0 1px rgb(0 0 0 / 13%), 0 1px 3px rgb(0 0 0 / 20%);
+  border-radius: .25rem;
+  background: #fff;
+  color: #495057;
+  margin-left: 60px;
+  margin-right: 15px;
+  margin-top: 0;
+  padding: 0;
+  position: relative;
+}
+
+.tab_voucher { max-height: 755px; overflow-y: scroll; height: 755px;}
