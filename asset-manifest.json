@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/cms_cni/static/js/main.b2d61156.chunk.js",
-    "runtime-main.js": "/cms_cni/static/js/runtime-main.33b1f8a6.js",
+    "main.js": "/cms_cni/static/js/main.b1866f7d.chunk.js",
+    "runtime-main.js": "/cms_cni/static/js/runtime-main.a87fb7c0.js",
     "static/css/2.d552d273.chunk.css": "/cms_cni/static/css/2.d552d273.chunk.css",
-    "static/js/2.346bfc62.chunk.js": "/cms_cni/static/js/2.346bfc62.chunk.js",
-    "static/js/3.c28db5b1.chunk.js": "/cms_cni/static/js/3.c28db5b1.chunk.js",
-    "static/js/4.fde2c8f5.chunk.js": "/cms_cni/static/js/4.fde2c8f5.chunk.js",
+    "static/js/2.222f008e.chunk.js": "/cms_cni/static/js/2.222f008e.chunk.js",
+    "static/js/3.2eeca2cb.chunk.js": "/cms_cni/static/js/3.2eeca2cb.chunk.js",
+    "static/js/4.105a6fd6.chunk.js": "/cms_cni/static/js/4.105a6fd6.chunk.js",
     "static/js/5.981b9149.chunk.js": "/cms_cni/static/js/5.981b9149.chunk.js",
     "index.html": "/cms_cni/index.html",
-    "static/js/2.346bfc62.chunk.js.LICENSE.txt": "/cms_cni/static/js/2.346bfc62.chunk.js.LICENSE.txt",
+    "static/js/2.222f008e.chunk.js.LICENSE.txt": "/cms_cni/static/js/2.222f008e.chunk.js.LICENSE.txt",
     "static/media/noPhoto.027652b1.jpg": "/cms_cni/static/media/noPhoto.027652b1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.33b1f8a6.js",
+    "static/js/runtime-main.a87fb7c0.js",
     "static/css/2.d552d273.chunk.css",
-    "static/js/2.346bfc62.chunk.js",
-    "static/js/main.b2d61156.chunk.js"
+    "static/js/2.222f008e.chunk.js",
+    "static/js/main.b1866f7d.chunk.js"
   ]
 }
