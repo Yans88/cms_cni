@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/cms_cni/static/js/main.7e728a38.chunk.js",
+    "main.js": "/cms_cni/static/js/main.6c27aa45.chunk.js",
     "runtime-main.js": "/cms_cni/static/js/runtime-main.416df2d9.js",
-    "static/css/2.d552d273.chunk.css": "/cms_cni/static/css/2.d552d273.chunk.css",
+    "static/css/2.97f11125.chunk.css": "/cms_cni/static/css/2.97f11125.chunk.css",
     "static/js/2.19fdeb11.chunk.js": "/cms_cni/static/js/2.19fdeb11.chunk.js",
     "static/js/3.9a475fcd.chunk.js": "/cms_cni/static/js/3.9a475fcd.chunk.js",
     "static/js/4.594b63c4.chunk.js": "/cms_cni/static/js/4.594b63c4.chunk.js",
@@ -15,8 +15,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.416df2d9.js",
-    "static/css/2.d552d273.chunk.css",
+    "static/css/2.97f11125.chunk.css",
     "static/js/2.19fdeb11.chunk.js",
-    "static/js/main.7e728a38.chunk.js"
+    "static/js/main.6c27aa45.chunk.js"
   ]
 }
