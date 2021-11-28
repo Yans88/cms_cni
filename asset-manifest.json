@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/cms_cni/static/js/main.ccfe8a65.chunk.js",
-    "runtime-main.js": "/cms_cni/static/js/runtime-main.416df2d9.js",
+    "main.js": "/cms_cni/static/js/main.4b7bc17d.chunk.js",
+    "runtime-main.js": "/cms_cni/static/js/runtime-main.8e2fa102.js",
     "static/css/2.97f11125.chunk.css": "/cms_cni/static/css/2.97f11125.chunk.css",
-    "static/js/2.8241a611.chunk.js": "/cms_cni/static/js/2.8241a611.chunk.js",
-    "static/js/3.9a475fcd.chunk.js": "/cms_cni/static/js/3.9a475fcd.chunk.js",
-    "static/js/4.594b63c4.chunk.js": "/cms_cni/static/js/4.594b63c4.chunk.js",
+    "static/js/2.660230d2.chunk.js": "/cms_cni/static/js/2.660230d2.chunk.js",
+    "static/js/3.d2f4507b.chunk.js": "/cms_cni/static/js/3.d2f4507b.chunk.js",
+    "static/js/4.50ebe6eb.chunk.js": "/cms_cni/static/js/4.50ebe6eb.chunk.js",
     "static/js/5.8d8685f0.chunk.js": "/cms_cni/static/js/5.8d8685f0.chunk.js",
     "index.html": "/cms_cni/index.html",
-    "static/js/2.8241a611.chunk.js.LICENSE.txt": "/cms_cni/static/js/2.8241a611.chunk.js.LICENSE.txt",
+    "static/js/2.660230d2.chunk.js.LICENSE.txt": "/cms_cni/static/js/2.660230d2.chunk.js.LICENSE.txt",
     "static/media/jnelogo.6f867ca9.jpg": "/cms_cni/static/media/jnelogo.6f867ca9.jpg",
     "static/media/logoLionParcel.2ee256a9.png": "/cms_cni/static/media/logoLionParcel.2ee256a9.png",
     "static/media/noPhoto.027652b1.jpg": "/cms_cni/static/media/noPhoto.027652b1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.416df2d9.js",
+    "static/js/runtime-main.8e2fa102.js",
     "static/css/2.97f11125.chunk.css",
-    "static/js/2.8241a611.chunk.js",
-    "static/js/main.ccfe8a65.chunk.js"
+    "static/js/2.660230d2.chunk.js",
+    "static/js/main.4b7bc17d.chunk.js"
   ]
 }
